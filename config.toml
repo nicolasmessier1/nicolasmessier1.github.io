@@ -1,12 +1,12 @@
-baseURL = "https://example.com"
-languageCode = "fr-FR"
-title = "Example YinYong Blog"
+baseURL = "https://nicolasmessier1.github.io"
+languageCode = "en-EN"
+title = "My blog"
 theme = "yinyang"
 DefaultContentLanguage = "en"
 
 [author]
   name = "Nicolas Messier"
-  homepage = "https://joway.io/"
+  homepage = "https://nicolasmessier1.github.io/"
 
 [languages]
   [languages.en]
@@ -15,7 +15,7 @@ DefaultContentLanguage = "en"
     weight = 1
 
 [params]
-disqus = "joway" # disqus account name
+disqus = "disqus_1K2MfFMIOY" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 
