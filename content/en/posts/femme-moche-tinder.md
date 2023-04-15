@@ -1,88 +1,55 @@
 +++
-title = "Getting Started with Hugo"
+title = "Pourquoi les femmes moches sur Tinder finiront seules"
 description = ""
 tags = [
     "go",
     "golang",
-    "hugo",
+    "templates",
+    "themes",
     "development",
 ]
-date = "2014-04-02"
+date = "2023-04-15"
 categories = [
-    "Golang",
+    "Develop",
 ]
 menu = "main"
 +++
 
-## Step 1. Install Hugo
+### Constat après observation
 
-Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
-appropriate version for your OS and architecture.
+Les femmes moches sur Tinder ont l'avantage de pouvoir coucher avec des mecs beaucoup plus beaux qu'elle.
 
-Save it somewhere specific as we will be using it in the next step.
+  
+Cela est dû à l'algorithme de Tinder et au fait qu'il y a aussi plus d'hommes que de femme sur Tinder. Donc les hommes ont moins de choix et font moins les difficiles pour avoir du sexe.
 
-More complete instructions are available at [Install Hugo](https://gohugo.io/getting-started/installing/)
+Les femmes, elles par contre ont le choix.
 
-## Step 2. Build the Docs
+Une 3/10 peut coucher avec un 8/10. Chose qu'elle ne pourrait pas faire IRL ou alors difficilement.
 
-Hugo has its own example site which happens to also be the documentation site
-you are reading right now.
+Cela créera un problème au moment de vouloir se mettre en couple.
 
-Follow the following steps:
+Elles vont enchainer les mecs séduisants, mais qui ne voudront pas aller plus loin.
 
- 1. Clone the [Hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
+Car une fois que l'homme a couché avec la moche, il ne voudra pas se mettre en couple avec, il ne se voit pas présenter la moche a ses parents et amis, surtout s’il connait sa valeur.
 
-Corresponding pseudo commands:
+Le seul but de coucher avec une moche pour l'homme est d'assouvir ses besoins sexuels. (Le premier niveau dans la pyramide de Maslow : Besoins physiologiques).
 
-    git clone https://github.com/spf13/hugo
-    cd hugo
-    /path/to/where/you/installed/hugo server --source=./docs
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Press ctrl+c to stop
+Les moches sur Tinder qui essayerons de trouver l'amour pour assouvir leurs Besoins d'appartenance et d'amour (3em niveau de la pyramide Maslow), feront toujours la même erreur, le fait d'avoir coucher avec de beaux gosses lui feront croire qu'elle a une valeur supérieure à la réalité.
 
-Once you've gotten here, follow along the rest of this page on your local build.
+Elle va rejeter les 3 ou 4 sur 10 qui sont pourtant du même niveau que'elle, car elle pensera avoir une valeur supérieure (elle couche avec des mecs 8/10 donc elle doit avoir de la valeur dans sa tête).
 
-## Step 3. Change the docs site
+Ce genre de femme si elle ne se remet pas en question répètera toujours la même erreur. Finirons pas dire que tous les hommes sont pareil : qu'ils veulent juste du cul, que c'est des connards. Et dans certains cas, elles finiront par avoir une haine des hommes, comme certaines féministes extrémistes.
 
-Stop the Hugo process by hitting Ctrl+C.
+Le même problème apparait chez les hommes, mais à l'inverse, s’ils ne font pas partie des 20% des hommes les plus beaux, ils auront de grosses difficultés sur Tinder.
 
-Now we are going to run hugo again, but this time with hugo in watch mode.
+Un 7/10 peu ne pas avoir de match ou alors les femmes le lui répondrons pas, car il y a toujours un autre mec plus beau et riche sur Tinder, donc pourquoi la femme prendrait le 7/10 (les femmes sont dans l'abondance sur Tinder grâce au déséquilibre hommes femmes sur l'application).
 
-    /path/to/hugo/from/step/1/hugo server --source=./docs --watch
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Watching for changes in /Users/spf13/Code/hugo/docs/content
-    > Press ctrl+c to stop
+L'homme peut perdre confiance en lui, car même des moches ne match pas avec lui alors qu'il voit passer les milliers de profils de femmes.
 
+Cela peut mener a de la frustration, dépression, colère contre les femmes, voir de la haine.
 
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
-content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
+## Conclusion
 
-Content files are found in `docs/content/`. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
+Les femmes moches et moyennes peuvent utiliser Tinder pour coucher avec de beau mec, mais il ne faut pas qu'elles oublient leur valeur au moment de vouloir se mettre en couple, une grosse ne pourra jamais se mettre en couple avec un homme qui fait de la muscu et prend soin de lui (même si elle arrive à coucher avec).
 
-Change and save this file.. Notice what happened in your terminal.
-
-    > Change detected, rebuilding site
-
-    > 29 pages created
-    > 0 tags index created
-    > in 26 ms
-
-Refresh the browser and observe that the typo is now fixed.
-
-Notice how quick that was. Try to refresh the site before it's finished building. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-## Step 4. Have fun
-
-The best way to learn something is to play with it.
+Pour un homme qui n'est pas dans le top 20%, Tinder est une perte de temps, et cela peu affecter sa santé mentale et lui faire perdre confiance en lui. Le mieux est d'éviter Tinder et de rencontrer des personnes en réel, par exemple : dans des soirées, événements, sports, etc ... et de mettre à profit sont temps pour se développer (physiquement, mentalement et financièrement), il en deviendra plus attractif.
